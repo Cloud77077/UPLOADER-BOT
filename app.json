@@ -11,22 +11,22 @@
       "value": "ANYTHING"},
 
     "BOT_TOKEN": {"description": "Your bot token, as a string.",
-        "value": ""},
+        "value": "6477345969:AAGVYNg_3kFFNqKzhkvaKjgJj3HrMvTUKWQ"},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": ""},
+     "value": "24072545"},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": ""},
+       "value": "ca3c1e57de2ab59b35a9945dac394054"},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": ""},
+       "value": "6169577931"},
 
     "PREMIUM_USER": {"description": "If you are a telegram premium user then set this True",
        "value": "False"},
 
     "DATABASE_URL": {"description": "Your MongoDB URI",
-           "value": ""} },
+           "value": "mongodb+srv://NamuUrlBot:NamuUrlBot@cluster0.ki0rmby.mongodb.net/?retryWrites=true&w=majority"} },
 
   "addons": [ ],
   "buildpacks": [ {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"},
